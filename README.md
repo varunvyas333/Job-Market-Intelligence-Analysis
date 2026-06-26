@@ -188,8 +188,7 @@ Job-Market-Campaign-Analysis
 
 # 📸 Dashboard Preview
 
-
-  <img src="Screenshots/Screenshot 2026-06-26 105851.png" alt="Job Market Analytics Dashboard" width="100%">
+![Dashboard Preview](Screenshot%202026-06-26%20105851.png)
 
 
 > **Interactive Power BI dashboard** showcasing hiring trends, candidate distribution, salary analysis, offer status, application trends, and key business insights.
