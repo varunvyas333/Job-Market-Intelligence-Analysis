@@ -196,7 +196,7 @@ Job-Market-Campaign-Analysis
 # 📸 Dashboard Preview
 
 ### Overview Dashboard
-<img width="716" height="323" alt="Screenshot 2026-06-26 105851.png" src="https://github.com/user-attachments/assets/b78c8ff6-8964-4389-adec-50d3255bf7e7" />
+<img width="716" height="323" alt="Screenshot/Screenshot 2026-06-26 105851.png" src="https://github.com/user-attachments/assets/b78c8ff6-8964-4389-adec-50d3255bf7e7" />
 
 ---
 
