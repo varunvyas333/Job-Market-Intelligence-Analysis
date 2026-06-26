@@ -1,4 +1,4 @@
-# 📊 Job Market Campaign Analysis
+# 📊 Job Market Intelligence Analysis
 
 <p align="center">
 
@@ -138,7 +138,7 @@ The analysis includes:
 # 🔍 Key Insights
 
 - Ahmedabad recorded the highest expected salary among all cities.
-- Cloud Engineer emerged as the most in-demand job role.
+- Java Developer emerged as the most in-demand job role.
 - LinkedIn generated the highest number of offered candidates.
 - Naukri recorded the highest expected salary among recruitment sources.
 - Front-End Developer had the highest rejection count.
@@ -179,7 +179,7 @@ Job-Market-Campaign-Analysis
 │   └── Job_Market_Dashboard.pbix
 │
 ├── Screenshots
-│   └── Dashboard.png
+│   └── Screenshot 2026-06-26 105851.png
 │
 └── README.md
 ```
@@ -226,7 +226,7 @@ This project demonstrates a complete end-to-end data analytics workflow, transfo
 
 💼 LinkedIn: https://www.linkedin.com/in/varun-vyas-b0b731358/
 
-📧 Email: your-vyas40454@gmail.com
+📧 Email: vyas40454@gmail.com
 
 ---
 
