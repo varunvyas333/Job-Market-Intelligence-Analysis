@@ -1,4 +1,3 @@
-# Job-Market-Intelligence-Analysis
 # 📊 Job Market Campaign Analysis
 
 <p align="center">
@@ -10,7 +9,7 @@
 
 </p>
 
-> **End-to-end Data Analytics Project** using **Python, SQL, and Power BI** to analyze recruitment data, uncover hiring trends, and generate actionable business insights.
+> **End-to-End Data Analytics Project** using **Python, SQL, and Power BI** to analyze recruitment data, uncover hiring trends, and generate actionable business insights.
 
 ---
 
@@ -39,8 +38,8 @@ The **Job Market Campaign Analysis** project focuses on analyzing recruitment da
 
 The project follows a complete data analytics workflow:
 
-- Data Cleaning using Python
-- Exploratory Data Analysis (EDA)
+- Data Cleaning using Python (Pandas & NumPy)
+- Exploratory Data Analysis (Matplotlib)
 - Business Analysis using SQL
 - Interactive Dashboard using Power BI
 - Business Insights & Recommendations
@@ -49,7 +48,7 @@ The project follows a complete data analytics workflow:
 
 # 🎯 Business Problem
 
-Recruitment teams often lack visibility into:
+Recruiters often lack visibility into:
 
 - Most in-demand job roles
 - Highest-paying cities
@@ -57,34 +56,30 @@ Recruitment teams often lack visibility into:
 - Candidate experience distribution
 - Hiring efficiency and offer conversion
 
-This project answers these business questions through data analysis and visualization.
+This project provides data-driven insights to support better recruitment decisions.
 
 ---
 
 # 🎯 Objectives
 
-✔ Analyze hiring trends
-
-✔ Compare salary expectations
-
-✔ Identify top-performing recruitment sources
-
-✔ Measure hiring performance
-
-✔ Support data-driven recruitment decisions
+- Analyze hiring trends across different job roles.
+- Compare salary expectations across cities.
+- Identify the most effective recruitment sources.
+- Evaluate hiring performance through offer status.
+- Build an interactive dashboard for recruitment analysis.
 
 ---
 
 # 🛠 Tech Stack
 
 | Tool | Purpose |
-|-------|----------|
+|------|---------|
 | 🐍 Python | Data Cleaning & EDA |
 | 📊 Pandas | Data Manipulation |
-| 🔢 NumPy | Numerical Operations |
+| 🔢 NumPy | Numerical Analysis |
 | 📈 Matplotlib | Data Visualization |
-| 🗄 MySQL | Business Analysis |
-| 📊 Power BI | Dashboard & Reporting |
+| 🗄️ MySQL | SQL Analysis |
+| 📊 Power BI | Dashboard Development |
 | 📄 Excel | Dataset |
 
 ---
@@ -117,11 +112,10 @@ Recommendations
 
 # 🧮 SQL Analysis
 
-Performed analysis using:
+The analysis includes:
 
 - Aggregate Functions
-- GROUP BY
-- HAVING
+- GROUP BY & HAVING
 - ORDER BY
 - CASE WHEN
 - Subqueries
@@ -135,8 +129,8 @@ Performed analysis using:
 
 - 👥 Total Candidates
 - 💼 Total Job Roles
-- 🏙 Total Cities
-- 🌐 Total Recruitment Sources
+- 🏙️ Total Cities
+- 🎯 Total Offered Candidates
 - 📈 Offer Conversion Rate
 
 ---
@@ -144,26 +138,26 @@ Performed analysis using:
 # 🔍 Key Insights
 
 - Ahmedabad recorded the highest expected salary among all cities.
-- Cloud Engineer was the most in-demand job role.
+- Cloud Engineer emerged as the most in-demand job role.
 - LinkedIn generated the highest number of offered candidates.
 - Naukri recorded the highest expected salary among recruitment sources.
-- Front-End Developer had the highest number of rejected candidates.
+- Front-End Developer had the highest rejection count.
 - Ahmedabad had the highest number of pending offers.
-- Java Developer had the highest openings in Ahmedabad.
-- Front-End Developer dominated hiring in Baroda.
-- QA Engineer had the highest openings in Mumbai and Pune.
-- Data Engineer dominated hiring in Surat.
-- Overall Offer Conversion Rate: **33.29%**
+- Java Developer had the highest number of openings in Ahmedabad.
+- Front-End Developer had the highest openings in Baroda.
+- QA Engineer dominated hiring in Mumbai and Pune.
+- Data Engineer had the highest openings in Surat.
+- Overall Offer Conversion Rate: **33.29%**.
 
 ---
 
 # 💡 Business Recommendations
 
-- Increase hiring efforts for Cloud Engineer roles.
-- Optimize recruitment campaigns on LinkedIn.
-- Review rejection patterns for Front-End Developer candidates.
+- Prioritize hiring for high-demand roles such as Cloud Engineer.
 - Allocate competitive salary budgets for Ahmedabad.
-- Improve recruitment pipeline efficiency to increase offer conversion.
+- Increase recruitment efforts through LinkedIn.
+- Analyze rejection trends for Front-End Developer candidates.
+- Improve the hiring process to increase the offer conversion rate.
 
 ---
 
@@ -185,7 +179,6 @@ Job-Market-Campaign-Analysis
 │   └── Job_Market_Dashboard.pbix
 │
 ├── Screenshots
-│   ├── Overview.png
 │   └── Dashboard.png
 │
 └── README.md
@@ -195,29 +188,34 @@ Job-Market-Campaign-Analysis
 
 # 📸 Dashboard Preview
 
-### Overview Dashboard
-<img width="716" height="323" alt="Screenshot/Screenshot 2026-06-26 105851.png" src="https://github.com/user-attachments/assets/b78c8ff6-8964-4389-adec-50d3255bf7e7" />
+<p align="center">
+  <img src="Screenshots/Dashboard.png" alt="Job Market Analytics Dashboard" width="100%">
+</p>
+
+> **Interactive Power BI dashboard** showcasing hiring trends, candidate distribution, salary analysis, offer status, application trends, and key business insights.
 
 ---
 
 # 💼 Skills Demonstrated
 
 - Data Cleaning
-- Exploratory Data Analysis
-- Business Analysis
+- Exploratory Data Analysis (EDA)
 - SQL Query Writing
+- Aggregate Functions
 - Window Functions
-- Data Visualization
+- Subqueries
+- Business Analysis
 - Dashboard Design
+- Data Visualization
 - KPI Reporting
-- Business Insights
+- Analytical Thinking
 - Problem Solving
 
 ---
 
 # 🚀 Project Outcome
 
-This project demonstrates an end-to-end data analytics workflow by transforming raw recruitment data into meaningful business insights. Using Python, SQL, and Power BI, the analysis highlights hiring trends, salary patterns, recruitment performance, and key metrics that support informed hiring decisions.
+This project demonstrates a complete end-to-end data analytics workflow, transforming raw recruitment data into meaningful business insights. By leveraging Python for data preparation, SQL for business analysis, and Power BI for interactive visualization, the project supports data-driven recruitment and hiring decisions.
 
 ---
 
@@ -225,14 +223,14 @@ This project demonstrates an end-to-end data analytics workflow by transforming 
 
 **Varun Vipulbhai Vyas**
 
-📍 Ahmedabad, Gujarat
+📍 Ahmedabad, Gujarat, India
 
-💼 LinkedIn: *(Add Your LinkedIn Profile)*
+💼 LinkedIn: https://www.linkedin.com/in/your-linkedin/
 
-📧 Email: *(Add Your Email)*
+📧 Email: your-email@gmail.com
 
-🐙 GitHub: *(Add Your GitHub Profile)*
+🐙 GitHub: https://github.com/your-github
 
 ---
 
-⭐ **If you found this project helpful, consider giving it a Star!**
+## ⭐ If you found this project useful, consider giving it a Star!
