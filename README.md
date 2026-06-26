@@ -224,11 +224,9 @@ This project demonstrates a complete end-to-end data analytics workflow, transfo
 
 📍 Ahmedabad, Gujarat, India
 
-💼 LinkedIn: https://www.linkedin.com/in/your-linkedin/
+💼 LinkedIn: https://www.linkedin.com/in/varun-vyas-b0b731358/
 
-📧 Email: your-email@gmail.com
-
-🐙 GitHub: https://github.com/your-github
+📧 Email: your-vyas40454@gmail.com
 
 ---
 
